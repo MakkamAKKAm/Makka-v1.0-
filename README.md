@@ -1,4 +1,4 @@
-simple and free arsenal chair 
+simple and free arsenal script
 -Aimbot
 -Esp
 -Esp team check
